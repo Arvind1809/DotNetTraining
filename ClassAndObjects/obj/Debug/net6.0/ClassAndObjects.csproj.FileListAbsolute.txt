@@ -1,0 +1,15 @@
+D:\Lectures\ClassAndObjects\bin\Debug\net6.0\ClassAndObjects.exe
+D:\Lectures\ClassAndObjects\bin\Debug\net6.0\ClassAndObjects.deps.json
+D:\Lectures\ClassAndObjects\bin\Debug\net6.0\ClassAndObjects.runtimeconfig.json
+D:\Lectures\ClassAndObjects\bin\Debug\net6.0\ClassAndObjects.dll
+D:\Lectures\ClassAndObjects\bin\Debug\net6.0\ClassAndObjects.pdb
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.csproj.AssemblyReference.cache
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.AssemblyInfoInputs.cache
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.AssemblyInfo.cs
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.csproj.CoreCompileInputs.cache
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.dll
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\refint\ClassAndObjects.dll
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.pdb
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ClassAndObjects.genruntimeconfig.cache
+D:\Lectures\ClassAndObjects\obj\Debug\net6.0\ref\ClassAndObjects.dll
