@@ -1,0 +1,31 @@
+https://meet.google.com/ptj-bhxc-azn
+
+Topic covered:
+	- History and basic
+	- data types
+	- Operators
+	- loops- for, foreach, switch, while, do while, ternary operator
+	- break, continue, return
+	- data type conversions - implicit, explicit
+	- array 
+	- foreach
+	- nullable
+	- method parameters - value,out, ref, param
+	- method/function
+	- static & instance - (class, method, member)
+	- constructor
+	- Inheritance - method hiding
+	- sealed, virtual, override
+	- multiple inheritance ambiguity
+	- multilevel (override)
+	- Polymorphism - overloading, overriding
+	- access specifier
+	
+Topic to cover:
+
+	- exception handling
+	- OOP
+
+	- collection classes
+	
+	

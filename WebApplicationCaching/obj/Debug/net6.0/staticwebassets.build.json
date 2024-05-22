@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0129rilbCOL+yRfDvT4DssHAH9uBlOXgBOhB8XQKLUs=",
+  "Source": "WebApplicationCaching",
+  "BasePath": "_content/WebApplicationCaching",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
